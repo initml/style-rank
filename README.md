@@ -1,4 +1,4 @@
-# Style-Rank
+# Internal Style-Rank
 
 <p align="center">
   <a href="https://gojasper.github.io/style-rank-project/">
